@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem "eth"
+gem "eth", ">= 0.4.8"
